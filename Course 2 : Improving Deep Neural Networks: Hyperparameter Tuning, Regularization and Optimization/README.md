@@ -1,5 +1,5 @@
 # Course 2
-## Neural Networks and Deep Learning
+## Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
 ##### The second course of Deep learning specialization, The black box of deep learning will be opened and you will understand the magic of deep learning [Certificate.](https://coursera.org/share/b244684598b4b46d44978c5f21a6aa3f)
 
